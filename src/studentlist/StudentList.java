@@ -18,6 +18,7 @@ public class StudentList {
         //user interaction
         // define 3 students and print 
         Student[] list = new Student[2]; // sid, name 
+        //today is friday
         //array of object declaration
         //create object
         Student s1 = new Student();
