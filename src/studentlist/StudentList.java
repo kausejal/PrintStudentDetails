@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ * Part-Time Branch
  * @author sivagamasrinivasan
  */
 public class StudentList {
