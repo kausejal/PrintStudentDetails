@@ -13,7 +13,7 @@ public class Student // model the student raw data
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
-    private int year;
+    private int year; //changes to check pull
     /**
      * @return the name
      */
